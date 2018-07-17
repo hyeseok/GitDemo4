@@ -7,5 +7,9 @@ namespace HelloGit
 {
     class Marine
     {
+        static void main(String[] args)
+        {
+            Console.WriteLine("Marine");
+        }  
     }
 }
