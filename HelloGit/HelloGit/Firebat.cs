@@ -7,9 +7,6 @@ namespace HelloGit
 {
     class Firebat
     {
-        static void Main(String[] args)
-        {
-            Console.WriteLine("Firebat 추가");
-        }
+
     }
 }
