@@ -9,7 +9,7 @@ namespace HelloGit
     {
         static void main(String[] args)
         {
-            Console.WriteLine("Marine");
+            Console.WriteLine("Add Marine");
         }  
     }
 }
